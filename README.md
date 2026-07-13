@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8102d7e2-f9fb-4524-88d6-11854372154d
+
 # blinkAIt — Blinkit-style grocery app with AI ingredient planning
 
 A demo grocery delivery web app (like Blinkit) with an AI feature: type a dish
